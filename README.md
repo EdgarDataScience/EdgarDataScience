@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @EdgarDataScience
+👋 Hi, I’m @EdgarDataScience
 
-- Welcome to my GitHub profile! I'm a Biomedicine graduate with a passion for data science and analytics. My background in private healthcare business finance has equipped me with practical skills in Power BI, Excel, and other Microsoft Office programs. I am eager to transition into the field of data science, leveraging my analytical skills and biomedical knowledge to make data-driven decisions and insights. Additionally, I have a strong interest in exploring data science applications within the finance sector. 
+WELCOME
+to my GitHub profile! I'm a Biomedicine graduate with a passion for data science and analytics. My background in private healthcare business finance has equipped me with practical skills in Power BI, Excel, and other Microsoft Office programs. I am eager to transition into the field of data science, leveraging my analytical skills and biomedical knowledge to make data-driven decisions and insights. Additionally, I have a strong interest in exploring data science applications within the finance sector. 
 
 Skills and Learning Goals:
 - 👀 Programming Languages: Python 🐍 (actively learning), R 📊 (Used in academic projects)
